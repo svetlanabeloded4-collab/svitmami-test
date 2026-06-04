@@ -1,1 +1,0 @@
-# svitmami-test
